@@ -1,0 +1,16 @@
+﻿[
+  {
+    "Date": "05.14.2002",
+    "PatientsCount": "28",
+    "StartHour": "9",
+    "Name": "Yuriy",
+    "Speciality": "Doc"
+  },
+  {
+    "Date": "06.14.2002",
+    "PatientsCount": "14",
+    "StartHour": "16",
+    "Name": "Yuriy",
+    "Speciality": "Doc"
+  }
+]

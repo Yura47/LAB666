@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.exe
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.deps.json
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.runtimeconfig.json
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.dll
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.pdb
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.csproj.CopyComplete
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.dll
+C:\Users\Admin\source\repos\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.pdb
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.exe
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.deps.json
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.runtimeconfig.json
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.runtimeconfig.dev.json
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.dll
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\LAB6+02.pdb
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.csprojAssemblyReference.cache
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.AssemblyInfoInputs.cache
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.AssemblyInfo.cs
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.csproj.CopyComplete
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.dll
+D:\STUD\PROGRAMM\new sem\LAB6+02\LAB6+02\obj\Debug\netcoreapp3.1\LAB6+02.pdb
